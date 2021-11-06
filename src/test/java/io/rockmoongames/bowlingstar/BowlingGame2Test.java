@@ -8,4 +8,18 @@ public class BowlingGame2Test {
     public void malcolmTestFour() {
 
     }
+
+    @Test
+    public void malcolmTestFive() {
+
+    }
+
+    @Test
+    public void malcolmTestSix() {
+
+    }
+    @Test
+    public void malcolmTestSeven() {
+
+    }
 }
