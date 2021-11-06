@@ -5,7 +5,12 @@ import org.junit.jupiter.api.Test;
 public class BowlingGameTest {
 
     @Test
-    public void jessicaTestOne( ) {
+    public void jessicaTestOne() {
+
+    }
+
+    @Test
+    public void jessicaTestTwo() {
 
     }
 }
