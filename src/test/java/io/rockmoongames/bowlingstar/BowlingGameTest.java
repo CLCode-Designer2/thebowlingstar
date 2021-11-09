@@ -15,7 +15,7 @@ public class BowlingGameTest {
     }
 
     @Test
-    public void malcolmTestTwhree() {
+    public void malcolmTestThree() {
 
     }
 }
